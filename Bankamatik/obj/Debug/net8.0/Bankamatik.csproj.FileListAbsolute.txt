@@ -1,0 +1,14 @@
+C:\Users\MSİ\Source\Repos\CSharp_Course_\Bankamatik\bin\Debug\net8.0\Bankamatik.exe
+C:\Users\MSİ\Source\Repos\CSharp_Course_\Bankamatik\bin\Debug\net8.0\Bankamatik.deps.json
+C:\Users\MSİ\Source\Repos\CSharp_Course_\Bankamatik\bin\Debug\net8.0\Bankamatik.runtimeconfig.json
+C:\Users\MSİ\Source\Repos\CSharp_Course_\Bankamatik\bin\Debug\net8.0\Bankamatik.dll
+C:\Users\MSİ\Source\Repos\CSharp_Course_\Bankamatik\bin\Debug\net8.0\Bankamatik.pdb
+C:\Users\MSİ\Source\Repos\CSharp_Course_\Bankamatik\obj\Debug\net8.0\Bankamatik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSİ\Source\Repos\CSharp_Course_\Bankamatik\obj\Debug\net8.0\Bankamatik.AssemblyInfoInputs.cache
+C:\Users\MSİ\Source\Repos\CSharp_Course_\Bankamatik\obj\Debug\net8.0\Bankamatik.AssemblyInfo.cs
+C:\Users\MSİ\Source\Repos\CSharp_Course_\Bankamatik\obj\Debug\net8.0\Bankamatik.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Source\Repos\CSharp_Course_\Bankamatik\obj\Debug\net8.0\Bankamatik.dll
+C:\Users\MSİ\Source\Repos\CSharp_Course_\Bankamatik\obj\Debug\net8.0\refint\Bankamatik.dll
+C:\Users\MSİ\Source\Repos\CSharp_Course_\Bankamatik\obj\Debug\net8.0\Bankamatik.pdb
+C:\Users\MSİ\Source\Repos\CSharp_Course_\Bankamatik\obj\Debug\net8.0\Bankamatik.genruntimeconfig.cache
+C:\Users\MSİ\Source\Repos\CSharp_Course_\Bankamatik\obj\Debug\net8.0\ref\Bankamatik.dll
